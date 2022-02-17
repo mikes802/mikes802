@@ -1,4 +1,4 @@
-# Michael Sante
+## Welcome! :tada:
 - 👋 Hi, I’m @mikes802
 - 🌱 Currently learning SQL & R
 - 👨‍🏫 Fifteen years of professional experience in education and cultural exchange 
