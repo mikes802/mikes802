@@ -1,4 +1,5 @@
 ## Welcome! :tada:
+![](https://komarev.com/ghpvc/?username=mikes802)
 - 👋 Hi, I’m @mikes802
 - 🌱 Currently learning SQL & R
 - 👨‍🏫 Fifteen years of professional experience in education and cultural exchange 
