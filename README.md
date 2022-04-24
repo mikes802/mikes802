@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @mikes802
 - 🌱 Currently learning SQL & R
 - 👨‍🏫 Fifteen years of professional experience in education and cultural exchange 
-- 📈 Currently earning certification in data analytics to help businesses create more opportunities in an ever-changing world
+- 📈 Earned certification in data analytics so that I can help businesses create more opportunities in an ever-changing world
 
 ### 🤝 Connect with me: <a href="https://www.linkedin.com/in/michael-sante/"><img src="https://raw.githubusercontent.com/mikes802/mikes802/main/images/linkedin.png" alt="Michael Sante | LinkedIn" width="21px"/></a>
 
