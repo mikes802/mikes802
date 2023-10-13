@@ -1,7 +1,7 @@
 ## Welcome! :tada:
 ![](https://komarev.com/ghpvc/?username=mikes802&label=PROFILE+VIEWS)
 - 👋 Hi, I’m @mikes802
-- 🌱 Currently learning SQL, Python, Java
+- 🌱 ALways learning SQL, Python, Java, R, Excel
 - 👨‍🏫 Fifteen years of professional experience in education and cultural exchange 
 - 📈 Earned certification in data analytics so that I can help businesses create more opportunities in an ever-changing world
 
